@@ -1,0 +1,6 @@
+[Text]
+Normal=#ebdbb2
+Current=#b8bb26
+NormalBG=#282828
+SelectedBG=#3c3836
+Font=Fixed
